@@ -6,23 +6,27 @@
     font-family: all;
     src: url(./assets/Kbbubblegum-P27B.ttf);
 }
+
 @font-face {
     font-family: culture;
     src: url(./assets/AlphonseMucha.ttf);
 }
-body{
+
+body {
     font-family: all;
     background: url('./assets/5578523.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
 }
+
 .vertical-rl {
-    writing-mode:vertical-lr;
+    writing-mode: vertical-lr;
     transform: rotate(180deg);
     text-orientation: mixed;
-  }
-.btn{
+}
+
+.btn {
     padding: 16px !important;
     display: flex !important;
     align-items: center !important;
@@ -32,14 +36,41 @@ body{
     text-transform: initial !important;
     color: white !important;
 }
-.btn:hover{
-    background:  #0B6623 !important;
+
+.btn:hover {
+    background: #0B6623 !important;
     transition: all ease;
 }
+<<<<<<< HEAD
 .bg-lawngreen{
+=======
+
+.bg-lawngreen {
+>>>>>>> 681f587 (iNTEGRATED CHART AND CHANGED COLOR THEMES)
     background: #964B00;
 }
 
-.culture{
+.culture {
     font-family: culture !important;
+}
+
+#dexscreener-embed {
+    position: relative;
+    width: 100%;
+    padding-bottom: 125%;
+}
+
+@media(min-width:1400px) {
+    #dexscreener-embed {
+        padding-bottom: 65%;
+    }
+}
+
+#dexscreener-embed iframe {
+    position: block;
+    width: 50%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    border: 0;
 }

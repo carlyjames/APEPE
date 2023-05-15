@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'React'
+import { PoodlApp } from '@poodl/widget'
 import Hotbit from '../assets/images/HotBit.webp'
 import Gate from '../assets/images/gate.png'
 import Huobi from '../assets/images/Huobi.webp'
@@ -30,7 +31,11 @@ const Listings = () => {
           <Link target='_blank' to='https://www.bitmart.com/en-US'>
             <img src={BitMart} alt="" />
           </Link> */}
+<<<<<<< HEAD
           
+=======
+          <PoodlApp />
+>>>>>>> 681f587 (iNTEGRATED CHART AND CHANGED COLOR THEMES)
         </div>
       </div>
     </div>
