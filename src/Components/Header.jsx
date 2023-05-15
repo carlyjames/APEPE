@@ -11,10 +11,10 @@ const Header = () => {
       <div className='text-3xl flex lg:flex-row flex-col items-center justify-around '>
         <div className='flex '>
           <div className='vertical-rl flex items-center justify-center flex-col'>
-            <Link to='/' className='hover:text-[#478807] ease'>
+            <Link to='/' className='hover:text-[#964B00] ease'>
               <h1>PEPE</h1>
             </Link>
-            <Link to='/' className='hover:text-[#478807] ease'>
+            <Link to='/' className='hover:text-[#964B00] ease'>
               <h1 className='font-semibold text-4xl'>ANGRY</h1>
             </Link>
           </div>

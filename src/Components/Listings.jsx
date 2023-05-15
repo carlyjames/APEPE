@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'React'
+import { PoodlApp } from '@poodl/widget'
 import Hotbit from '../assets/images/HotBit.webp'
 import Gate from '../assets/images/gate.png'
 import Huobi from '../assets/images/Huobi.webp'
@@ -11,14 +12,14 @@ const Listings = () => {
     <div className='grid lg:grid-cols-2  lg:px-24 px-8 py-16 mt-16'>
       <div>
         <Link target='_blank' to='https://www.hotbit.io/markets' className='flex flex-col items-center justify-center'>
-          <h1 className='culture font-light text-5xl mb-4'>Listed On</h1>
-          <img src={Hotbit} width='200' alt="" />
+          <h1 className='culture font-light text-5xl mb-4'>CHART</h1>
+          <iframe id="dextools-widget" title="DEXTools Trading Chart" width="500" height="400" src="https://www.dextools.io/widgets/en/ether/pe-light/0x3bcfd7f139a4286a37aabff1cbde1447e90a6d57?theme=light&chartType=2&chartResolution=30&drawingToolbars=false"></iframe>
         </Link>
       </div>
       <div className='flex flex-col items-center justify-center'>
-        <h1 className='culture font-light text-5xl mb-4'>Coming Soon</h1>
+        <h1 className='culture font-light text-5xl mb-4'>Buy $HEET</h1>
         <div className='grid grid-cols-2 gap-8'>
-          <Link target='_blank' to='https://www.gate.io/' className='h-100'>
+          {/* <Link target='_blank' to='https://www.gate.io/' className='h-100'>
             <img src={Gate} alt="" />
           </Link>
           <Link target='_blank' to='https://www.huobi.com/en-us/'>
@@ -29,7 +30,8 @@ const Listings = () => {
           </Link>
           <Link target='_blank' to='https://www.bitmart.com/en-US'>
             <img src={BitMart} alt="" />
-          </Link>
+          </Link> */}
+          <PoodlApp />
         </div>
       </div>
     </div>
