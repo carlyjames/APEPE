@@ -15,19 +15,11 @@ const VisionCard = () => {
                 </div>
                 <div className='flex flex-col'>
                     <h1 className='font-bold flex gap-2 text-2xl'>2. <h1 className='text-[#964B00]'>Utility and Adoption:</h1> </h1>
-<<<<<<< HEAD
-                    <p className='ml-6'>Drive adoption and utility for the Angry Pepe token by exploring and implementing real-world use cases, partnerships, and collaborations that bring value to the community and expand the reach of the Angry Pepe brand beyond just the crypto and meme communities.</p>
-                </div>
-                <div className='flex flex-col'>
-                    <h1 className='font-bold flex gap-2 text-2xl'>3. <h1 className='text-[#964B00]'>Community Engagement and Governance:</h1> </h1>
-                    <p className='ml-6'> Foster a strong and engaged community through active participation, open communication, and transparent decision-making processes. Implement community governance mechanisms that empower members to contribute to the direction and growth of the Angry Pepe ecosystem.</p>
-=======
                     <p className='ml-6'>Drive adoption and utility for the Ho Lee $heet token by exploring and implementing real-world use cases, partnerships, and collaborations that bring value to the community and expand the reach of the Ho Lee $heet brand beyond just the crypto and meme communities.</p>
                 </div>
                 <div className='flex flex-col'>
                     <h1 className='font-bold flex gap-2 text-2xl'>3. <h1 className='text-[#964B00]'>Community Engagement and Governance:</h1> </h1>
                     <p className='ml-6'> Foster a strong and engaged community through active participation, open communication, and transparent decision-making processes. Implement community governance mechanisms that empower members to contribute to the direction and growth of the Ho Lee $heet ecosystem.</p>
->>>>>>> 5e65413 (rebased and fixed)
                 </div>
                 <div className='flex flex-col'>
                     <h1 className='font-bold flex gap-2 text-2xl'>4. <h1 className='text-[#964B00]'>Inclusivity and Diversity:</h1> </h1>
@@ -39,11 +31,7 @@ const VisionCard = () => {
                 </div>
                 <div className='flex flex-col'>
                     <h1 className='font-bold flex gap-2 text-2xl'>6. <h1 className='text-[#964B00]'> Long-Term Sustainability:</h1></h1>
-<<<<<<< HEAD
-                    <p className='ml-6'>Plan for the long-term sustainability of the Angry Pepe ecosystem by implementing sound tokenomics, exploring revenue-generating opportunities, and managing resources prudently to ensure the continued growth and success of the community and the Angry Pepe token.</p>
-=======
                     <p className='ml-6'>Plan for the long-term sustainability of the Ho Lee $heet ecosystem by implementing sound tokenomics, exploring revenue-generating opportunities, and managing resources prudently to ensure the continued growth and success of the community and the Ho Lee $heet token.</p>
->>>>>>> 5e65413 (rebased and fixed)
                 </div>
             </div>
         </div>

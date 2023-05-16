@@ -6,19 +6,11 @@ const TermsCard = () => {
       <div className='px-2 lg:px-16 flex flex-col gap-8 text-xl'>
         <div className='flex flex-col'>
           <h1 className='font-bold text-[#964B00] text-2xl'>1. Introduction</h1>
-<<<<<<< HEAD
-          <p>By using the Angry Pepe Token website (the "Website"), you agree to these Terms of Use. Please read them carefully before accessing or using the Website. If you do not agree to these Terms of Use, please do not use the Website.</p>
-        </div>
-        <div className='flex flex-col'>
-          <h1 className='font-bold text-[#964B00] text-2xl'>2. Risk Warning</h1>
-          <p>Investing in cryptocurrencies, such as Angry Pepe Token, carries a high level of risk. You should be aware that the value of your investment may fluctuate, and you may lose all or part of your investment. The responsibility for your capital lies with you, and you should not invest more than you can afford to lose. The Website and its organizers are not responsible for any losses you may incur or for the overall market capitalization.</p>
-=======
           <p>By using the Ho Lee $heet Token website (the "Website"), you agree to these Terms of Use. Please read them carefully before accessing or using the Website. If you do not agree to these Terms of Use, please do not use the Website.</p>
         </div>
         <div className='flex flex-col'>
           <h1 className='font-bold text-[#964B00] text-2xl'>2. Risk Warning</h1>
           <p>Investing in cryptocurrencies, such as Ho Lee $heet Token, carries a high level of risk. You should be aware that the value of your investment may fluctuate, and you may lose all or part of your investment. The responsibility for your capital lies with you, and you should not invest more than you can afford to lose. The Website and its organizers are not responsible for any losses you may incur or for the overall market capitalization.</p>
->>>>>>> 5e65413 (rebased and fixed)
         </div>
         <div className='flex flex-col'>
           <h1 className='font-bold text-[#964B00] text-2xl'>3. No Investment Advice</h1>
