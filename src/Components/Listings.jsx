@@ -32,10 +32,17 @@ const Listings = () => {
             <img src={BitMart} alt="" />
           </Link> */}
 <<<<<<< HEAD
+<<<<<<< HEAD
           
 =======
           <PoodlApp />
 >>>>>>> 681f587 (iNTEGRATED CHART AND CHANGED COLOR THEMES)
+=======
+          <PoodlApp />
+=======
+          
+>>>>>>> 5e65413 (rebased and fixed)
+>>>>>>> f8387fc (rebased and fixed)
         </div>
       </div>
     </div>
