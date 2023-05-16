@@ -9,13 +9,13 @@ const Footer = () => {
       <Divider />
       <div className='flex lg:flex-row flex-col items-center justify-around py-8 gap-4'>
         <Link to='/terms'>
-          <p className='hover:text-[#964B00] ease'>Terms of use</p>
+          <p className='hover:text-[#000000] ease'>Terms of use</p>
         </Link>
         <Link to='mailto: Team@AngryPepe.wtf'>
-          <p className='hover:text-[#964B00] ease'>Contact Us</p>
+          <p className='hover:text-[#000000] ease'>Contact Us</p>
         </Link>
         <Link to='/vision'>
-          <p className='hover:text-[#964B00] ease'>Vision</p>
+          <p className='hover:text-[#000000] ease'>Vision</p>
         </Link>
         <div>
           <p> <CopyrightIcon /> 2023 Ho Lee $heet. It's okay to be Ho Lee $heet. </p>

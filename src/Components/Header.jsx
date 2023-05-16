@@ -11,10 +11,10 @@ const Header = () => {
       <div className='text-3xl flex lg:flex-row flex-col items-center justify-around '>
         <div className='flex '>
           <div className='vertical-rl flex items-center justify-center flex-col'>
-            <Link to='/' className='hover:text-[#964B00] ease'>
+            <Link to='/' className='hover:text-[#000000] ease'>
               <h1>PEPE</h1>
             </Link>
-            <Link to='/' className='hover:text-[#964B00] ease'>
+            <Link to='/' className='hover:text-[#000000] ease'>
               <h1 className='font-semibold text-4xl'>ANGRY</h1>
             </Link>
           </div>
@@ -33,13 +33,7 @@ const Header = () => {
                 </IconButton>
               </div>
             </Link>
-            <Link target='_blank' to='https://discord.com/invite/SYwe35hxab'>
-              <div className='border-solid border-2 border-black  h-[60px] w-[60px] rounded-full flex items-center justify-center'>
-                <IconButton>
-                  <img src={discord} alt="" />
-                </IconButton>
-              </div>
-            </Link>
+            
           </div>
         </div>
         <div className='flex flex-col items-center justify-center lg:m-0 m-4'>

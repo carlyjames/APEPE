@@ -10,27 +10,27 @@ const VisionCard = () => {
                 <p>The vision for the Ho Lee $heet community includes the following elements:</p>
                 
                 <div className='flex flex-col'>
-                    <h1 className='font-bold flex gap-2 text-2xl'>1. <h1 className='text-[#964B00]'>Creativity and Humor :</h1></h1>
+                    <h1 className='font-bold flex gap-2 text-2xl'>1. <h1 className='text-[#000000]'>Creativity and Humor :</h1></h1>
                     <p className='ml-6'>Embrace and celebrate the unique and dynamic nature of meme culture, and encourage members to express their creativity and sense of humor through memes, artwork, videos, and other forms of creative expression.</p>
                 </div>
                 <div className='flex flex-col'>
-                    <h1 className='font-bold flex gap-2 text-2xl'>2. <h1 className='text-[#964B00]'>Utility and Adoption:</h1> </h1>
+                    <h1 className='font-bold flex gap-2 text-2xl'>2. <h1 className='text-[#000000]'>Utility and Adoption:</h1> </h1>
                     <p className='ml-6'>Drive adoption and utility for the Ho Lee $heet token by exploring and implementing real-world use cases, partnerships, and collaborations that bring value to the community and expand the reach of the Ho Lee $heet brand beyond just the crypto and meme communities.</p>
                 </div>
                 <div className='flex flex-col'>
-                    <h1 className='font-bold flex gap-2 text-2xl'>3. <h1 className='text-[#964B00]'>Community Engagement and Governance:</h1> </h1>
+                    <h1 className='font-bold flex gap-2 text-2xl'>3. <h1 className='text-[#000000]'>Community Engagement and Governance:</h1> </h1>
                     <p className='ml-6'> Foster a strong and engaged community through active participation, open communication, and transparent decision-making processes. Implement community governance mechanisms that empower members to contribute to the direction and growth of the Ho Lee $heet ecosystem.</p>
                 </div>
                 <div className='flex flex-col'>
-                    <h1 className='font-bold flex gap-2 text-2xl'>4. <h1 className='text-[#964B00]'>Inclusivity and Diversity:</h1> </h1>
+                    <h1 className='font-bold flex gap-2 text-2xl'>4. <h1 className='text-[#000000]'>Inclusivity and Diversity:</h1> </h1>
                     <p className='ml-6'>Promote inclusivity and diversity within the community, welcoming members from all backgrounds, cultures, and identities. Strive to create a safe and respectful environment where everyone feels valued and respected.</p>
                 </div>
                 <div className='flex flex-col'>
-                    <h1 className='font-bold flex gap-2 text-2xl'>5. <h1  className='text-[#964B00]'>Limitation of Liability</h1> </h1>
+                    <h1 className='font-bold flex gap-2 text-2xl'>5. <h1  className='text-[#000000]'>Limitation of Liability</h1> </h1>
                     <p className='ml-6'>To the maximum extent permitted by law, the Website and its organizers shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data, or other intangible losses, resulting from the use of or inability to use the Website or its services.</p>
                 </div>
                 <div className='flex flex-col'>
-                    <h1 className='font-bold flex gap-2 text-2xl'>6. <h1 className='text-[#964B00]'> Long-Term Sustainability:</h1></h1>
+                    <h1 className='font-bold flex gap-2 text-2xl'>6. <h1 className='text-[#000000]'> Long-Term Sustainability:</h1></h1>
                     <p className='ml-6'>Plan for the long-term sustainability of the Ho Lee $heet ecosystem by implementing sound tokenomics, exploring revenue-generating opportunities, and managing resources prudently to ensure the continued growth and success of the community and the Ho Lee $heet token.</p>
                 </div>
             </div>

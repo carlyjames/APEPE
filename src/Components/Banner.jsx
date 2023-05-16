@@ -11,35 +11,29 @@ const Banner = () => {
       <div className='text-3xl flex lg:flex-row flex-col items-center justify-around '>
         <div className='flex '>
           <div className='vertical-rl flex items-center justify-center flex-col'>
-            <Link to='/' className='hover:text-[#964B00] ease'>
+            <Link to='/' className='hover:text-[#000000] ease'>
               <h1>$HEET</h1>
             </Link>
-            <Link to='/' className='hover:text-[#964B00] ease'>
+            <Link to='/' className='hover:text-[#000000] ease'>
               <h1 className='font-semibold text-4xl'>HO LEE</h1>
             </Link>
           </div>
           <div className='grid grid-cols-2 m-8 lg:gap-8 gap-4'>
             <Link target='_blank' to='https://t.me/AngryPepePortal'>
-              <div className='border-solid border-2 border-black  h-[60px] w-[60px] rounded-full flex items-center justify-center'>
+              <div className='border-solid border-2 border-black hover:bg-[#000000] hover:color-white h-[60px] w-[60px] rounded-full flex items-center justify-center'>
                 <IconButton >
                   <TelegramIcon fontSize='large' color='black' className='text-black' />
                 </IconButton>
               </div>
             </Link>
             <Link target='_blank' to='https://twitter.com/AngryPepeETH'>
-              <div className='border-solid border-2 border-black hover:bg[#964B00] h-[60px] w-[60px] rounded-full flex items-center justify-center'>
+              <div className='border-solid border-2 border-black hover:bg-[#000000] h-[60px] w-[60px] rounded-full flex items-center justify-center'>
                 <IconButton>
                   <TwitterIcon fontSize='large' color='black' className='text-black' />
                 </IconButton>
               </div>
             </Link>
-            <Link target='_blank' to='https://discord.com/invite/SYwe35hxab'>
-              <div className='border-solid border-2 border-black  h-[60px] w-[60px] rounded-full flex items-center justify-center'>
-                <IconButton>
-                  <img src={discord} alt="" />
-                </IconButton>
-              </div>
-            </Link>
+            
           </div>
         </div>
         <div className='flex flex-col items-center justify-center'>
@@ -50,7 +44,7 @@ const Banner = () => {
         </div>
       </div>
       {/*  */}
-      {/* <h2 className='culture mx-24 lg:mt-0 mt-16 lg:text-8xl text-5xl text-left -skew-y-12'>For the <br /> culture</h2> */}
+      <h2 className='culture mx-24 lg:mt-0 mt-16 lg:text-4xl text-2xl text-center -skew-y-2'>Oh $heet! Gas fees <br /> are down</h2>
 
       
     </section>
