@@ -18,7 +18,7 @@ const Footer = () => {
           <p className='hover:text-[#964B00] ease'>Vision</p>
         </Link>
         <div>
-          <p> <CopyrightIcon /> 2023 Angry Pepe. It's okay to be angry pepe. </p>
+          <p> <CopyrightIcon /> 2023 Ho Lee $heet. It's okay to be Ho Lee $heet. </p>
           <p>Team @AngryPepe.wtf</p>
         </div>
       </div>

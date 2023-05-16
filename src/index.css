@@ -41,8 +41,12 @@ body {
     background: #0B6623 !important;
     transition: all ease;
 }
+<<<<<<< HEAD
 
 .bg-lawngreen {
+=======
+.bg-lawngreen{
+>>>>>>> 5e65413 (rebased and fixed)
     background: #964B00;
 }
 

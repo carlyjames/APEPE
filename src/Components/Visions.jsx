@@ -4,10 +4,10 @@ const VisionCard = () => {
     return (
         <div className='lg:p-24 p-1 lg:py-4 '>
             <div className='px-2 lg:px-16 flex flex-col gap-8 text-lg'>
-                <p>The vision for the Angry Pepe community is to create a vibrant and inclusive ecosystem that embraces the humor and creativity of the meme culture while building a strong and engaged community of meme enthusiasts, crypto investors, and supporters who share a common passion for memes and believe in the long-term potential of Angry Pepe as a meme-based cryptocurrency.</p>
-                <p>The Angry Pepe community envisions $APEPE to become more than just a token for trading, but also a symbol of creativity, expression, and community empowerment. The community aims to foster a welcoming and inclusive environment where members can freely express themselves, share memes, engage in discussions, and participate in community-driven initiatives. Collaboration, participation, and innovation are key values of the Angry Pepe community, with a focus on continually evolving and adapting to changing market conditions, user preferences, and technological advancements.</p>
-                <p>The vision for the Angry Pepe community is to create a thriving, dynamic, and innovative ecosystem that embodies the spirit of meme culture, while building a sustainable and inclusive community that adds value to the broader crypto space and beyond.</p>
-                <p>The vision for the Angry Pepe community includes the following elements:</p>
+                <p>The vision for the Ho Lee $heet community is to create a vibrant and inclusive ecosystem that embraces the humor and creativity of the meme culture while building a strong and engaged community of meme enthusiasts, crypto investors, and supporters who share a common passion for memes and believe in the long-term potential of Ho Lee $heet as a meme-based cryptocurrency.</p>
+                <p>The Ho Lee $heet community envisions $APEPE to become more than just a token for trading, but also a symbol of creativity, expression, and community empowerment. The community aims to foster a welcoming and inclusive environment where members can freely express themselves, share memes, engage in discussions, and participate in community-driven initiatives. Collaboration, participation, and innovation are key values of the Ho Lee $heet community, with a focus on continually evolving and adapting to changing market conditions, user preferences, and technological advancements.</p>
+                <p>The vision for the Ho Lee $heet community is to create a thriving, dynamic, and innovative ecosystem that embodies the spirit of meme culture, while building a sustainable and inclusive community that adds value to the broader crypto space and beyond.</p>
+                <p>The vision for the Ho Lee $heet community includes the following elements:</p>
                 
                 <div className='flex flex-col'>
                     <h1 className='font-bold flex gap-2 text-2xl'>1. <h1 className='text-[#964B00]'>Creativity and Humor :</h1></h1>
@@ -15,11 +15,19 @@ const VisionCard = () => {
                 </div>
                 <div className='flex flex-col'>
                     <h1 className='font-bold flex gap-2 text-2xl'>2. <h1 className='text-[#964B00]'>Utility and Adoption:</h1> </h1>
+<<<<<<< HEAD
                     <p className='ml-6'>Drive adoption and utility for the Angry Pepe token by exploring and implementing real-world use cases, partnerships, and collaborations that bring value to the community and expand the reach of the Angry Pepe brand beyond just the crypto and meme communities.</p>
                 </div>
                 <div className='flex flex-col'>
                     <h1 className='font-bold flex gap-2 text-2xl'>3. <h1 className='text-[#964B00]'>Community Engagement and Governance:</h1> </h1>
                     <p className='ml-6'> Foster a strong and engaged community through active participation, open communication, and transparent decision-making processes. Implement community governance mechanisms that empower members to contribute to the direction and growth of the Angry Pepe ecosystem.</p>
+=======
+                    <p className='ml-6'>Drive adoption and utility for the Ho Lee $heet token by exploring and implementing real-world use cases, partnerships, and collaborations that bring value to the community and expand the reach of the Ho Lee $heet brand beyond just the crypto and meme communities.</p>
+                </div>
+                <div className='flex flex-col'>
+                    <h1 className='font-bold flex gap-2 text-2xl'>3. <h1 className='text-[#964B00]'>Community Engagement and Governance:</h1> </h1>
+                    <p className='ml-6'> Foster a strong and engaged community through active participation, open communication, and transparent decision-making processes. Implement community governance mechanisms that empower members to contribute to the direction and growth of the Ho Lee $heet ecosystem.</p>
+>>>>>>> 5e65413 (rebased and fixed)
                 </div>
                 <div className='flex flex-col'>
                     <h1 className='font-bold flex gap-2 text-2xl'>4. <h1 className='text-[#964B00]'>Inclusivity and Diversity:</h1> </h1>
@@ -31,7 +39,11 @@ const VisionCard = () => {
                 </div>
                 <div className='flex flex-col'>
                     <h1 className='font-bold flex gap-2 text-2xl'>6. <h1 className='text-[#964B00]'> Long-Term Sustainability:</h1></h1>
+<<<<<<< HEAD
                     <p className='ml-6'>Plan for the long-term sustainability of the Angry Pepe ecosystem by implementing sound tokenomics, exploring revenue-generating opportunities, and managing resources prudently to ensure the continued growth and success of the community and the Angry Pepe token.</p>
+=======
+                    <p className='ml-6'>Plan for the long-term sustainability of the Ho Lee $heet ecosystem by implementing sound tokenomics, exploring revenue-generating opportunities, and managing resources prudently to ensure the continued growth and success of the community and the Ho Lee $heet token.</p>
+>>>>>>> 5e65413 (rebased and fixed)
                 </div>
             </div>
         </div>

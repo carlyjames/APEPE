@@ -31,7 +31,11 @@ const Listings = () => {
           <Link target='_blank' to='https://www.bitmart.com/en-US'>
             <img src={BitMart} alt="" />
           </Link> */}
+<<<<<<< HEAD
           <PoodlApp />
+=======
+          
+>>>>>>> 5e65413 (rebased and fixed)
         </div>
       </div>
     </div>
