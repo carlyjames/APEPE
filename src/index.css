@@ -38,7 +38,7 @@ body {
 }
 
 .btn:hover {
-    background: #0B6623 !important;
+    background: #000000ca !important;
     transition: all ease;
 }
 .bg-lawngreen{
