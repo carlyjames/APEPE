@@ -37,14 +37,14 @@ const Banner = () => {
           </div>
         </div>
         <div className='flex flex-col items-center justify-center'>
-          <h1 className='lg:text-5xl text-4xl font-semibold'>"OH $HEET!<br /> BUY ME!"</h1>
+          <h1 className='lg:text-5xl text-4xl font-semibold'>"OH $HEET!<br />Lower Gas Fee!"</h1>
           <div className='text-white contract-btn border p-2 mt-4 rounded-full bg-lawngreen'>
             <p className='text-xs lg:text-lg truncate lg:w-[100%] flex items-center justify-center gap-2 w-[250px]' style={{ fontSize: '16px' }}> <p className='lg:block hidden text-sm'>CONTRACT ADDRESS : </p> 0xb656fe66E9360ce1e1c2Ee84006a37B95c95B8b0</p>
           </div >
         </div>
       </div>
       {/*  */}
-      <h2 className='culture mx-24 lg:mt-0 mt-16 lg:text-4xl text-2xl text-center -skew-y-2'>Oh $heet!  <br /> lOW Gas Fee</h2>
+      <h2 className='culture mx-24 lg:mt-0 mt-16 lg:text-4xl text-2xl text-center -skew-y-2'>Oh $heet! Buy Me <br /> lOW Gas Fee</h2>
 
       
     </section>
