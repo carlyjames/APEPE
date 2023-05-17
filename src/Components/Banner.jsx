@@ -44,7 +44,7 @@ const Banner = () => {
         </div>
       </div>
       {/*  */}
-      <h2 className='culture mx-24 lg:mt-0 mt-16 lg:text-4xl text-2xl text-center -skew-y-2'>Oh $heet! Gas fees <br /> are down</h2>
+      <h2 className='culture mx-24 lg:mt-0 mt-16 lg:text-4xl text-2xl text-center -skew-y-2'>Oh $heet!  <br /> lOW Gas Fee</h2>
 
       
     </section>
